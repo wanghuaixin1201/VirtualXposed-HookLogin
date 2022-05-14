@@ -33,7 +33,7 @@ HookLoginDemo.apk：检测应用隐私合规App
 
 
 
-6.从Android Studio的logcat中过滤HookLogin的字样，就可以看到对应的应用调用了哪些方法以及是哪些sdk进行调用的了
+6.从Android Studio的Logcat中过滤HookLogin的字样，就可以看到对应的应用调用了哪些方法以及是哪些sdk进行调用的了
 
 ![Android Studio日志](https://user-images.githubusercontent.com/24582883/168407700-cd576bb7-b8dd-4188-9b97-e8d0ec4120e4.png)
 
