@@ -21,3 +21,5 @@ HookLoginDemo.apk：检测应用隐私合规App
 
 6.从Android Studio的logcat中过滤LogoinHook的字样，就可以看到对应的应用调用了哪些方法以及是哪些sdk进行调用的了
 
+注： 有些同学如果出现点击模块管理无法进入的情况，请确认下是否Android版本过高，因为VirtualXposed支持Android 5-10 的版本
+
